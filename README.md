@@ -23,7 +23,7 @@ Ahora vamos con la modificación del codigo para lograr lo que se pide en la par
 
    * Ejecución
      
-   LIBRO NO ENCONTRADo
+   LIBRO NO ENCONTRADO
   
    ![image](https://github.com/Ralonzo99/Libros-Favoritos-2/assets/147834274/3815e491-df7a-43e9-9287-6a57c0cfb508)
 
